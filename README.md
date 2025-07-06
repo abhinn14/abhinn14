@@ -11,18 +11,16 @@
 
 <p>
   <a href="https://codeforces.com/profile/abhinn14" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="30" height="30"/>
-</a>
-<strong>Codeforces</strong>: Specialist (Rating: 1436)
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Codeforces_logo.png" alt="Codeforces" width="90" />
+  </a><br/>
+  <strong>Codeforces</strong>: Specialist (Rating: 1436)
 </p>
 
 <p>
   <a href="https://www.codechef.com/users/abhinn14" target="_blank">
-  <img src="https://img.icons8.com/color/48/codechef.png" alt="CodeChef" width="30" height="30"/>
-</a>
-<strong>CodeChef</strong>: 3★ (Rating: 1642)
- 
+    <img src="https://img.icons8.com/color/48/codechef.png" alt="CodeChef" width="30" height="30"/>
+  </a>
+  <strong>CodeChef</strong>: 3★ (Rating: 1642)
 </p>
 
 ---
@@ -58,7 +56,7 @@
 #### Web Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40" style="background-color: white; border-radius: 6px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
