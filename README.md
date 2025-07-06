@@ -12,6 +12,7 @@
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%20(1436)-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhinn14)
 [![CodeChef](https://img.shields.io/badge/CodeChef-3★%20(1642)-orange?logo=codechef&logoColor=white)](https://www.codechef.com/users/abhinn14)
+[![LeetCode](https://img.shields.io/badge/LeetCode-@abhinnprakashyadav-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/abhinnprakashyadav)
 
 ---
 
