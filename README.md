@@ -1,4 +1,4 @@
-<h1 align="center">Abhinn Yadav</h1>
+<h1 align="center">Abhinn Prakash Yadav</h1>
 <h3 align="center">Full-Stack Developer && Competitive Programmer</h3>
 
 - 🌱 Currently diving deep into the **MERN Stack**
