@@ -11,15 +11,15 @@
 
 <p>
   <a href="https://codeforces.com/profile/abhinn14" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="Codeforces" width="30" height="30" style="filter: invert(0.8);"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="Codeforces" width="130" />
+  </a><br/>
   <strong>Codeforces</strong>: Specialist (Rating: 1436)
 </p>
 
 <p>
   <a href="https://www.codechef.com/users/abhinn14" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codechef.svg" alt="CodeChef" width="30" height="30" style="filter: invert(0.8);" />
-  </a>
+    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="120"/>
+  </a><br/>
   <strong>CodeChef</strong>: 3★ (Rating: 1642)
 </p>
 
@@ -56,7 +56,7 @@
 #### Web Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="60" height="40" style="background-color: white; border-radius: 6px; padding: 2px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="60" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
@@ -65,6 +65,6 @@
 #### Data & Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
 </p>
