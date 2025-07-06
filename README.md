@@ -11,14 +11,14 @@
 
 <p>
   <a href="https://codeforces.com/profile/abhinn14" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="Codeforces" width="130" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Codeforces_Logo.png" alt="Codeforces" width="120"/>
   </a><br/>
   <strong>Codeforces</strong>: Specialist (Rating: 1436)
 </p>
 
 <p>
   <a href="https://www.codechef.com/users/abhinn14" target="_blank">
-    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="120"/>
+    <img src="https://i.imgur.com/IsC9WfD.png" alt="CodeChef" width="120"/>
   </a><br/>
   <strong>CodeChef</strong>: 3★ (Rating: 1642)
 </p>
