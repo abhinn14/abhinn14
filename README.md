@@ -45,16 +45,16 @@
 
 ---
 
-##### 🚀 Projects
+### 🚀 Projects
 
-###### 📬 [Real-time Chat Application with End-to-End Encryption](https://github.com/abhinn14/chatapy)
+### 📬 **[Real-time Chat Application with End-to-End Encryption](https://github.com/abhinn14/chatapy)**
 - Built a real-time chat app using **MERN**, **JWT**, and **Socket.io** that supported concurrent users with an average message latency of <100ms.
 - Implemented end-to-end encryption using the Web Crypto API (Diffie-Hellman key exchange algorithm), ensuring 100% confidentiality of all client-to-client messages.
 
-###### ❄️ [IoT & ML: Smart AC Anomaly Detection System](https://github.com/abhinn14/Logger)
+### ❄️ **[IoT & ML: Smart AC Anomaly Detection System](https://github.com/abhinn14/Logger)**
 - Collaborated with a team in developing Logger, an IoT-based monitoring system for ACs that captures real-time temperature, humidity, vibration, current and voltage data.
 - Designed the receiver system to visualize data trends and applied **Isolation Forest** for anomaly detection with 100% accuracy, enabling predictive maintenance.
 
-###### 🔗 [URL Shortener](https://github.com/abhinn14/URL-Shortener)
-- Built a URL shortener using the **MERN** stack, with a collision free algorithm to ensure unique short links.
+### 🔗 **[URL Shortener](https://github.com/abhinn14/URL-Shortener)**
+- Built a URL shortener using the **MERN** stack, with a collision-free algorithm to ensure unique short links.
 - Integrated a QR code generator for each shortened link to improve accessibility.
