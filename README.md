@@ -42,3 +42,21 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)
 ![Scikit‑learn](https://img.shields.io/badge/Scikit--learn-%230074C0.svg?logo=scikit-learn&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+#### 📬 [Real-time Chat Application with End-to-End Encryption](https://github.com/abhinn14/chatapy)
+- Built using **MERN Stack**, **Socket.IO**, **Zustand**, and **JWT**
+- Implements E2E encryption using Web Crypto API (Diffie–Hellman key exchange)
+- Enables secure and scalable real-time communication
+
+#### ❄️ [IoT & ML: Smart AC Anomaly Detection System](https://github.com/abhinn14/Logger)
+- Designed an IoT-based logging system for ACs using NodeMCU and sensors
+- Visualized real-time data and implemented anomaly detection with **Isolation Forest**
+- Achieved 98% accuracy in fault prediction, outperforming threshold-based models
+
+#### 🔗 [URL Shortener](https://github.com/abhinn14/URL-Shortener)
+- A full-stack web app to generate short links using **MongoDB**, **Node.js**, and **Express**
+- Includes link redirection, analytics, and copy-to-clipboard feature
