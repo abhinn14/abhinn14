@@ -23,8 +23,6 @@
   <strong>CodeChef</strong>: 3★ (Rating: 1642)  
 </p>
 
-- Strong focus on problem-solving, data structures, and algorithms
-
 ---
 
 ### 📫 Contact Me
