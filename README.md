@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Competitive Programmer</h3>
 
 - 🌱 Currently diving deep into the **MERN Stack**  
-- 💻 Passionate about building real-time, scalable web applications  
+- 💻 Passionate about building scalable web applications  
 - 👨‍💻 Active on platforms like Codeforces, CodeChef, and LeetCode  
 
 ---
@@ -10,8 +10,7 @@
 ### 🏆 Competitive Programming
 
 - **Codeforces**: Specialist (Rating: 1436)  
-- **CodeChef**: 4★ (Rating: 1642)  
-- Solved 1000+ problems across platforms  
+- **CodeChef**: 3★ (Rating: 1642)   
 - Strong focus on problem-solving, data structures, and algorithms
 
 ---
