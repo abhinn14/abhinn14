@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhinn Prakash Yadav</h1>
 <h3 align="center">Full-Stack Developer | Competitive Programmer</h3>
 
-- 🌱 Currently diving deep into the **MERN Stack**  
-- 💻 Passionate about building scalable web applications  
-- 👨‍💻 Active on platforms like Codeforces, CodeChef, and LeetCode  
+- 🌱 Currently diving deep into the **MERN Stack**
+- 💻 Passionate about building scalable web applications
+- 🧠 Consistently improving my **DSA and problem-solving skills** through daily practice
+- 👨‍💻 Active on platforms like Codeforces, CodeChef, and LeetCode
 
 ---
 
