@@ -4,7 +4,22 @@
 - 🌱 Currently diving deep into the **MERN Stack**  
 - 💻 Passionate about building real-time, scalable web applications  
 - 👨‍💻 Active on platforms like Codeforces, CodeChef, and LeetCode  
-- 📫 Reach me at: **abhinn4869@gmail.com**
+
+---
+
+### 🏆 Competitive Programming
+
+- **Codeforces**: Specialist (Rating: 1436)  
+- **CodeChef**: 4★ (Rating: 1642)  
+- Solved 1000+ problems across platforms  
+- Strong focus on problem-solving, data structures, and algorithms
+
+---
+
+### 📫 Contact Me
+
+- Email: **abhinn4869@gmail.com**  
+- LinkedIn: [linkedin.com/in/abhinny](https://linkedin.com/in/abhinny)
 
 ---
 
@@ -52,10 +67,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
 </p>
-
----
-
-### ⚡ Fun Facts
-- I love solving algorithmic problems and improving data structures knowledge  
-- I'm working towards becoming a **Codeforces Expert**  
-- I'm always up for a challenge, be it backend systems or optimization problems
