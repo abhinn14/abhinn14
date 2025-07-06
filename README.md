@@ -11,14 +11,14 @@
 
 <p>
   <a href="https://codeforces.com/profile/abhinn14" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Codeforces_logo.png" alt="Codeforces" width="90" />
-  </a><br/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces" width="30"/>
+  </a>
   <strong>Codeforces</strong>: Specialist (Rating: 1436)
 </p>
 
 <p>
   <a href="https://www.codechef.com/users/abhinn14" target="_blank">
-    <img src="https://img.icons8.com/color/48/codechef.png" alt="CodeChef" width="30" height="30"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-codechef-a-competitive-programming-community-of-programmers-from-across-the-globe-logo-color-tal-revivo.png" alt="CodeChef" width="30"/>
   </a>
   <strong>CodeChef</strong>: 3★ (Rating: 1642)
 </p>
@@ -29,14 +29,14 @@
 
 <p>
   <a href="mailto:abhinn4869@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="25" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="25" />
   </a>
   <strong>Email:</strong> abhinn4869@gmail.com
 </p>
 
 <p>
   <a href="https://linkedin.com/in/abhinny" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="25" />
   </a>
   <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/abhinny">linkedin.com/in/abhinny</a>
 </p>
@@ -56,7 +56,7 @@
 #### Web Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40" style="background-color: white; border-radius: 6px;"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express.js" width="40" height="40" style="background-color: white; border-radius: 6px; padding: 5px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
