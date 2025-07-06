@@ -9,62 +9,34 @@
 
 ### 🏆 Competitive Programming
 
-<p>
-  <a href="https://codeforces.com/profile/abhinn14" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Codeforces_Logo.png" alt="Codeforces" width="120"/>
-  </a><br/>
-  <strong>Codeforces</strong>: Specialist (Rating: 1436)
-</p>
-
-<p>
-  <a href="https://www.codechef.com/users/abhinn14" target="_blank">
-    <img src="https://i.imgur.com/IsC9WfD.png" alt="CodeChef" width="120"/>
-  </a><br/>
-  <strong>CodeChef</strong>: 3★ (Rating: 1642)
-</p>
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%20(1436)-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhinn14)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★%20(1642)-orange?logo=codechef&logoColor=white)](https://www.codechef.com/users/abhinn14)
 
 ---
 
 ### 📫 Contact Me
 
-<p>
-  <a href="mailto:abhinn4869@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="25" />
-  </a>
-  <strong>Email:</strong> abhinn4869@gmail.com
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/abhinny" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" />
-  </a>
-  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/abhinny">linkedin.com/in/abhinny</a>
-</p>
+[![Email](https://img.shields.io/badge/Email-abhinn4869@gmail.com-red?logo=gmail&logoColor=white)](mailto:abhinn4869@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhinny-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinny)
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
+#### Programming Languages  
+![C](https://img.shields.io/badge/C-%231787F2.svg?logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
 
-#### Web Development
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="60" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</p>
+#### Web Development  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)  
+![Express.js](https://img.shields.io/badge/Express.js-gray?logo=express&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 
-#### Data & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-</p>
+#### Data & Tools  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)  
+![Scikit‑learn](https://img.shields.io/badge/Scikit--learn-%230074C0.svg?logo=scikit-learn&logoColor=white)
