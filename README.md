@@ -1,5 +1,5 @@
 <h1 align="center">Abhinn Yadav</h1>
-<h3 align="center">Full-Stack Developer | Competitive Programmer</h3>
+<h3 align="center">Full-Stack Developer && Competitive Programmer</h3>
 
 - 🌱 Currently diving deep into the **MERN Stack**
 - 💻 Passionate about building scalable web applications
