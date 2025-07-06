@@ -9,34 +9,38 @@
 
 ### 🏆 Competitive Programming
 
-- **Codeforces**: Specialist (Rating: 1436)  
-- **CodeChef**: 3★ (Rating: 1642)   
+<p>
+  <a href="https://codeforces.com/profile/abhinn14" target="_blank">
+    <img src="https://sta.codeforces.com/s/59584/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="25" />
+  </a>
+  <strong>Codeforces</strong>: Specialist (Rating: 1436)  
+</p>
+
+<p>
+  <a href="https://www.codechef.com/users/abhinn14" target="_blank">
+    <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/5c7d5cc5806b6.png" alt="CodeChef" width="25" />
+  </a>
+  <strong>CodeChef</strong>: 3★ (Rating: 1642)  
+</p>
+
 - Strong focus on problem-solving, data structures, and algorithms
 
 ---
 
 ### 📫 Contact Me
 
-- Email: **abhinn4869@gmail.com**  
-- LinkedIn: [linkedin.com/in/abhinny](https://linkedin.com/in/abhinny)
+<p>
+  <a href="mailto:abhinn4869@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="25" />
+  </a>
+  <strong>Email:</strong> abhinn4869@gmail.com
+</p>
 
----
-
-### 🌐 Connect with me
-
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/abhinny" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" />
   </a>
-  <a href="https://www.codechef.com/users/abhinn14" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" height="30"/>
-  </a>
-  <a href="https://codeforces.com/profile/abhinn14" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="30" height="30"/>
-  </a>
-  <a href="https://www.leetcode.com/abhinnprakashyadav" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
-  </a>
+  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/abhinny">linkedin.com/in/abhinny</a>
 </p>
 
 ---
@@ -54,7 +58,7 @@
 #### Web Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
