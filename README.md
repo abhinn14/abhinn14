@@ -26,6 +26,10 @@
 - Collaborated with a team in developing Logger, an IoT-based monitoring system for ACs that captures real-time temperature, humidity, vibration, current and voltage data.
 - Designed the receiver system to visualize data trends and applied **Isolation Forest** for anomaly detection with 100% accuracy, enabling predictive maintenance.
 
+### 📝 **[AI Feedback Colleciton Platform](https://github.com/abhinn14/feedback)**
+- Built a MERN app for creating and sharing feedback forms with JWT-based admin authentication and Zustand for lightweight state management.
+- Enabled sharing public URLs with customers for seamless feedback collection and integrated OpenAI API to auto-summarize responses for admins and added CSV export functionality for data analysis of responses.
+
 ### 🔗 **[URL Shortener](https://github.com/abhinn14/URL-Shortener)**
 - Built a URL shortener using the **MERN** stack, with a collision-free algorithm to ensure unique short links.
 - Integrated a QR code generator for each shortened link to improve accessibility.
