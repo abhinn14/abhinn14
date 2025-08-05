@@ -1,13 +1,6 @@
 <h1 align="center">Abhinn Prakash Yadav</h1>
 <h3 align="center">Full-Stack Developer && Competitive Programmer</h3>
 
-- 🌱 Currently diving deep into the **MERN Stack**
-- 💻 Passionate about building scalable web applications
-- 🧠 Consistently improving my **DSA and problem-solving skills** through daily practice
-- 👨‍💻 Active on platforms like Codeforces, CodeChef, and LeetCode
-
----
-
 ### 🏆 Competitive Programming
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%20(1444)-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhinn14)
