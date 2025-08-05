@@ -1,6 +1,8 @@
 <h1 align="center">Abhinn Prakash Yadav</h1>
 <h3 align="center">Full-Stack Developer && Competitive Programmer</h3>
 
+---
+
 ### 🏆 Competitive Programming
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%20(1444)-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhinn14)
@@ -23,7 +25,7 @@
 - Collaborated with a team in developing Logger, an IoT-based monitoring system for ACs that captures real-time temperature, humidity, vibration, current and voltage data.
 - Designed the receiver system to visualize data trends and applied **Isolation Forest** for anomaly detection with 100% accuracy, enabling predictive maintenance.
 
-### 📝 **[AI Feedback Colleciton Platform](https://github.com/abhinn14/feedback)**
+### 📝 **[AI Feedback Collection Platform](https://github.com/abhinn14/feedback)**
 - Built a MERN app for creating and sharing feedback forms with JWT-based admin authentication and Zustand for lightweight state management.
 - Enabled sharing public URLs with customers for seamless feedback collection and integrated OpenAI API to auto-summarize responses for admins and added CSV export functionality for data analysis of responses.
 
