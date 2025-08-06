@@ -21,7 +21,7 @@
 - Collaborated with a team in developing Logger, an IoT-based monitoring system for ACs that captures real-time temperature, humidity, vibration, current and voltage data.
 - Designed the receiver system to visualize data trends and applied **Isolation Forest** for anomaly detection with 100% accuracy, enabling predictive maintenance.
 
-### 💸 **[AI Real-Time Fraud Detection in Banking transactions](https://github.com/abhinn14/Logger)**
+### 🔐 **[AI Real-Time Fraud Detection in Banking transactions](https://github.com/abhinn14/Logger)**
 - Developed a real-time fraud detection system using XGBoost, Isolation Forest, and a custom Neural Network, analyzing transaction patterns based on amount, timestamp, IP location, and frequency.
 - Integrated SMS parsing (latest 10 messages) to extract contextual risk signals from user notifications, enhancing prediction accuracy in suspected fraud scenarios.
 
