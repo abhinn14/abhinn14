@@ -11,8 +11,6 @@
   
 </p>
 
-<hr/>
-
 
 <h3 align="center">Full-Stack Developer && Competitive Programmer && DevOps + AI Engineer</h3>
 
