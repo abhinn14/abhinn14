@@ -1,5 +1,5 @@
 <h1 align="center">Abhinn Prakash Yadav</h1>
-<h3 align="center">Full-Stack Developer && Competitive Programmer</h3>
+<h3 align="center">Full-Stack Developer && Competitive Programmer && DevOps + AI Engineer</h3>
 
 ---
 
