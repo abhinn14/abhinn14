@@ -2,9 +2,7 @@
 <p align="left">  
   
   <h1 align="center"><img src="https://c.tenor.com/fmo7ehm6tn0AAAAi/man-tipping-hand-joypixels.gif" width="48"> Abhinn Prakash Yadav </h1>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=abhinn14&color=blueviolet"/>
-  </p>
+  
   
 </p>
 
@@ -72,3 +70,9 @@
 
 [![Email](https://img.shields.io/badge/Email-abhinn4869@gmail.com-red?logo=gmail&logoColor=white)](mailto:abhinn4869@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhinny-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinny)
+
+
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=abhinn14&color=blueviolet"/>
+  </p>
