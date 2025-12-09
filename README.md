@@ -1,9 +1,9 @@
 <img width=400 src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783"  align="right">
 <p align="left">  
   
-  <h2 align="center"><img src="https://c.tenor.com/fmo7ehm6tn0AAAAi/man-tipping-hand-joypixels.gif" width="48">
+  <h3 align="center"><img src="https://c.tenor.com/fmo7ehm6tn0AAAAi/man-tipping-hand-joypixels.gif" width="48">
     Abhinn Prakash Yadav
-  </h2>
+  </h3>
   
   
 </p>
