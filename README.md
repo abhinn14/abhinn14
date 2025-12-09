@@ -8,14 +8,13 @@
 
   <hr/>
   
-  <h2 align="left"><img src="https://c.tenor.com/fmo7ehm6tn0AAAAi/man-tipping-hand-joypixels.gif" width="48"> About me  </h2>
+  <h1 align="left"><img src="https://c.tenor.com/fmo7ehm6tn0AAAAi/man-tipping-hand-joypixels.gif" width="48"> Abhinn Prakash Yadav </h1>
   
 </p>
 
 <hr/>
 
 
-<h1 align="center">Abhinn Prakash Yadav</h1>
 <h3 align="center">Full-Stack Developer && Competitive Programmer && DevOps + AI Engineer</h3>
 
 ---
