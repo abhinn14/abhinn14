@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Projects
+<h2 align="left"><img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="48">PROJECTS</h2> 
 
 ### 💬 **[Real-time Chat Application with End-to-End Encryption](https://github.com/abhinn14/chatapy)**
 - Built a real-time chat app using **MERN**, **JWT**, and **Socket.io** that supported concurrent users with an average message latency of <100ms.
