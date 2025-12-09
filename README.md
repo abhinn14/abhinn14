@@ -1,7 +1,5 @@
 <img width=400 src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783"  align="right">
-<p align="left">
-  <h1 align="center"> Hola <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="48" height="48"></h1>
-  
+<p align="left">  
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=abhinn14&color=blueviolet"/>
   </p>
