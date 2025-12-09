@@ -6,7 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=abhinn14&color=blueviolet"/>
   </p>
 
-  <hr/>
   
   <h1 align="left"><img src="https://c.tenor.com/fmo7ehm6tn0AAAAi/man-tipping-hand-joypixels.gif" width="48"> Abhinn Prakash Yadav </h1>
   
