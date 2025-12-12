@@ -8,7 +8,10 @@
 </p>
 <h3 align="center">Full-Stack Developer && Competitive Programmer && DevOps + AI Engineer</h3>
 
+### 📫 Contact Me
 
+[![Email](https://img.shields.io/badge/Email-abhinn4869@gmail.com-red?logo=gmail&logoColor=white)](mailto:abhinn4869@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhinny-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinny)
 
 ---
 ### 🏆 Competitive Programming
@@ -66,10 +69,7 @@
 
 ---
 
-### 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-abhinn4869@gmail.com-red?logo=gmail&logoColor=white)](mailto:abhinn4869@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhinny-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinny)
 
 
 
