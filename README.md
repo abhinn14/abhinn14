@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">Competitive Programmer · Full-Stack Developer · DevOps & AI Engineer</h3>
-<h3 align="center">"Don't be afraid, the employer is gonna look at your commit history not your browser history"</h3>
+<p align="center">"Don't be afraid, the employer is gonna look at your commit history not your browser history"</p>
 
 ---
 
