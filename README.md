@@ -1,8 +1,4 @@
 <!-- Banner / Profile Image -->
-<p align="center">
-  <img src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783" width="260">
-</p>
-
 <h1 align="center">
   <img src="https://c.tenor.com/fmo7ehm6tn0AAAAi/man-tipping-hand-joypixels.gif" width="48">
   Abhinn Prakash Yadav
@@ -121,6 +117,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783" width="260">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhinn14&color=blueviolet"/>
