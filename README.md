@@ -63,7 +63,7 @@
 ---
 
 ### 🔐 **AI-Powered Real-Time Fraud Detection System**  
-🔗 *Repo:* https://github.com/abhinn14/Logger  
+🔗 *Repo:* https://github.com/abhinn14/fraud  
 
 - Built with **XGBoost**, **Isolation Forest**, **Custom Neural Network**  
 - Analyzed **transaction amount, timestamps, IP behavior, frequency patterns**  
