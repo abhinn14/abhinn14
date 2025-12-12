@@ -6,7 +6,7 @@
   </h1>
 
 </p>
-<h3 align="center">Full-Stack Developer && Competitive Programmer && DevOps + AI Engineer</h3>
+<h3 align="center">Competitive Programmer && Full-Stack Developer && DevOps + AI Engineer</h3>
 
 ---
 
