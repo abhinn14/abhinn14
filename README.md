@@ -34,18 +34,6 @@
   <img src="https://img.shields.io/badge/Scikit--learn-0078D7?logo=scikit-learn&logoColor=white">
 </p>
 
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:abhinn4869@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhinn4869@gmail.com-D14836?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/abhinny">
-    <img src="https://img.shields.io/badge/LinkedIn-abhinny-0077B5?logo=linkedin&logoColor=white">
-  </a>
-</p>
 
 ---
 
@@ -113,6 +101,19 @@
   
   <a href="https://leetcode.com/u/abhinnprakashyadav">
     <img src="https://img.shields.io/badge/LeetCode-@abhinnprakashyadav-F89F1B?logo=leetcode&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:abhinn4869@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhinn4869@gmail.com-D14836?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/abhinny">
+    <img src="https://img.shields.io/badge/LinkedIn-abhinny-0077B5?logo=linkedin&logoColor=white">
   </a>
 </p>
 
