@@ -8,6 +8,46 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+</p>
+
+### **Web Development**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
+</p>
+
+### **Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-0078D7?logo=scikit-learn&logoColor=white">
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:abhinn4869@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhinn4869@gmail.com-D14836?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/abhinny">
+    <img src="https://img.shields.io/badge/LinkedIn-abhinny-0077B5?logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
 
 # <img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="48"> Projects
 
@@ -57,46 +97,6 @@
 - MERN-based URL shortener with collision-free hashing  
 - Auto-generated QR codes for each short URL  
 
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-</p>
-
-### **Web Development**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
-</p>
-
-### **Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-0078D7?logo=scikit-learn&logoColor=white">
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:abhinn4869@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhinn4869@gmail.com-D14836?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/abhinny">
-    <img src="https://img.shields.io/badge/LinkedIn-abhinny-0077B5?logo=linkedin&logoColor=white">
-  </a>
-</p>
 
 ---
 
