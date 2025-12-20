@@ -1,6 +1,5 @@
 <!-- Banner / Profile Image -->
 <h1 align="center">
-  <img src="https://c.tenor.com/fmo7ehm6tn0AAAAi/man-tipping-hand-joypixels.gif" width="48">
   Abhinn Prakash Yadav
 </h1>
 
