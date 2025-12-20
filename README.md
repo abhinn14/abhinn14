@@ -8,36 +8,6 @@
 
 ---
 
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:abhinn4869@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhinn4869@gmail.com-D14836?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/abhinny">
-    <img src="https://img.shields.io/badge/LinkedIn-abhinny-0077B5?logo=linkedin&logoColor=white">
-  </a>
-</p>
-
----
-
-## 🏆 Competitive Programming Profiles
-
-<p align="center">
-  <a href="https://codeforces.com/profile/abhinn14">
-    <img src="https://img.shields.io/badge/Codeforces-Specialist%20(1444)-1F8ACB?logo=codeforces&logoColor=white">
-  </a>
-  
-  <a href="https://www.codechef.com/users/abhinn14">
-    <img src="https://img.shields.io/badge/CodeChef-3★%20(1642)-B5592A?logo=codechef&logoColor=white">
-  </a>
-  
-  <a href="https://leetcode.com/u/abhinnprakashyadav">
-    <img src="https://img.shields.io/badge/LeetCode-@abhinnprakashyadav-F89F1B?logo=leetcode&logoColor=white">
-  </a>
-</p>
-
----
 
 # <img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="48"> Projects
 
@@ -117,9 +87,41 @@
 
 ---
 
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:abhinn4869@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhinn4869@gmail.com-D14836?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/abhinny">
+    <img src="https://img.shields.io/badge/LinkedIn-abhinny-0077B5?logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🏆 Competitive Programming Profiles
+
+<p align="center">
+  <a href="https://codeforces.com/profile/abhinn14">
+    <img src="https://img.shields.io/badge/Codeforces-Specialist%20(1444)-1F8ACB?logo=codeforces&logoColor=white">
+  </a>
+  
+  <a href="https://www.codechef.com/users/abhinn14">
+    <img src="https://img.shields.io/badge/CodeChef-3★%20(1642)-B5592A?logo=codechef&logoColor=white">
+  </a>
+  
+  <a href="https://leetcode.com/u/abhinnprakashyadav">
+    <img src="https://img.shields.io/badge/LeetCode-@abhinnprakashyadav-F89F1B?logo=leetcode&logoColor=white">
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783" width="260">
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhinn14&color=blueviolet"/>
