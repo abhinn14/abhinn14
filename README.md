@@ -5,7 +5,7 @@
 
 <h3><b>TECH STACK</b></h3>
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="30">
+<img align="left" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="60">
 <p> <b>&nbsp;Languages </b> </p>
 <p> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
