@@ -1,12 +1,11 @@
-<!-- Banner / Profile Image -->
 <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300">
 
 <h3 align="center">Competitive Programmer · Full-Stack Developer · AI Engineer</h3>
 <p align="center">"Don't be afraid, the employer is gonna look at your commit history not your browser history"</p>
 
----
 
-## 🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 
 ### **Languages**
 <p>
