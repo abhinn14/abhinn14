@@ -8,7 +8,7 @@ Competitive Programmer · Full-Stack Developer · AI Engineer
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages
+#### <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="30"> Languages
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
@@ -16,7 +16,7 @@ Competitive Programmer · Full-Stack Developer · AI Engineer
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
 </p>
 
-#### 🌐 Web Development
+#### 🌐 Development
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
@@ -34,7 +34,7 @@ Competitive Programmer · Full-Stack Developer · AI Engineer
 
 #### 🤖 AI Engineering
 <p>
-  <img src="https://img.shields.io/badge/LLMOPs-0B3C5D?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMops-0B3C5D?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-4B0082?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vector_Databases-512BD4?logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-BEC2FF?logo=chainlink&logoColor=black"/>
