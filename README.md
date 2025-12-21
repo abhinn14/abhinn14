@@ -34,12 +34,13 @@ Competitive Programmer · Full-Stack Developer · AI Engineer
 
 #### 🤖 AI Engineering
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-0B3C5D?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-4B0082?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vector_Databases-512BD4?logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-BEC2FF?logo=chainlink&logoColor=black"/>
 </p>
+
 
 
 
