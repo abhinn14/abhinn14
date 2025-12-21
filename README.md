@@ -43,7 +43,7 @@
 
 ---
 
-# <img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="48"> Projects
+# <img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="28"> PROJECTS
 
 ### 💬 **Real-Time Chat Application with End-to-End Encryption**  
 🔗 *Repo:* https://github.com/abhinn14/chatapy  
