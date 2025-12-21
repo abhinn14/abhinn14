@@ -7,7 +7,7 @@ Competitive Programmer · Full-Stack Developer · AI Engineer
 ---
 <img align="left" src="https://camo.githubusercontent.com/3bdada6ba5ec3dd52e907458744cc645fb19176974f3211150a40469ebd93786/68747470733a2f2f632e74656e6f722e636f6d2f4b765249484f794a4e2d7341414141692f67656172732d7370696e6e696e672e676966" width="40">
 
-<p><big><big><b> Tech Stack</b></big></big></p>
+<h3><big><big><big><big><b> Tech Stack</b></big></big</big></big></h3>
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="65">
 <h3> Languages </h3>
