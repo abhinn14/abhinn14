@@ -1,35 +1,47 @@
-<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300">
+<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="280"/>
 
-<h3 align="center">Competitive Programmer · Full-Stack Developer · AI Engineer</h3>
-<p align="center">"Don't be afraid, the employer is gonna look at your commit history not your browser history"</p>
+<h3 align="center">
+Competitive Programmer · Full-Stack Developer · AI Engineer
+</h3>
 
-
-
-### 🛠️ **Tech Stack**
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+<p align="center">
+  <em>
+    "Don’t be afraid — employers check your commit history, not your browser history."
+  </em>
 </p>
 
-**Web Development**
+<br clear="left"/>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
 </p>
 
-**AI Engineering**
+#### 🌐 Web Development
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-0078D7?logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"/>
 </p>
+
+#### 🤖 AI / Data
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
+</p>
+
 
 
 ---
