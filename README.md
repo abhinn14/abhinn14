@@ -4,14 +4,6 @@
 Competitive Programmer · Full-Stack Developer · AI Engineer
 </h3>
 
-<p align="center">
-  <em>
-    "Don’t be afraid — employers check your commit history, not your browser history."
-  </em>
-</p>
-
-<br clear="left"/>
-
 ---
 
 ### 🛠️ Tech Stack
