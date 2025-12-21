@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
@@ -39,7 +39,8 @@
   <img src="https://img.shields.io/badge/RAG-4B0082?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vector_Databases-512BD4?logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-BEC2FF?logo=chainlink&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black"/> </p>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black"/>
+</p>
 
 
 ---
