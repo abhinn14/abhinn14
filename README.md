@@ -34,7 +34,7 @@
 </p>
 
 <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="30">
-<p> <b>&nbsp;AI Engineering </b> </p>
+<p> <b>&nbsp;AI </b> </p>
 <p> <img src="https://img.shields.io/badge/LLMops-0B3C5D?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-4B0082?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vector_Databases-512BD4?logo=databricks&logoColor=white"/>
