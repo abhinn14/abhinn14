@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
 </p>
 
-### **Web Development**
+**Web Development**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
 </p>
 
-### **Machine Learning**
+**AI Engineering**
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--learn-0078D7?logo=scikit-learn&logoColor=white">
