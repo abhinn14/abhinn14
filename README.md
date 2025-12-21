@@ -1,7 +1,5 @@
 <h2 align="center"> Full-Stack Developer · AI Engineer </h2>
-<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="260"/>
-
----
+<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="230"/>
 
 <img align="left" src="https://camo.githubusercontent.com/3bdada6ba5ec3dd52e907458744cc645fb19176974f3211150a40469ebd93786/68747470733a2f2f632e74656e6f722e636f6d2f4b765249484f794a4e2d7341414141692f67656172732d7370696e6e696e672e676966" width="35">
 
