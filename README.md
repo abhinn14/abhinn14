@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonec2&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonec2&logoColor=white"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
@@ -32,7 +32,7 @@
 
 <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="60">
 <p> <b>&nbsp;&nbsp;&nbsp;AI </b> </p>
-<p> <img src="https://img.shields.io/badge/LLMops-0B3C5D?logo=openai&logoColor=white"/>
+<p> &nbsp;&nbsp;<img src="https://img.shields.io/badge/LLMops-0B3C5D?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-4B0082?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vector_Databases-512BD4?logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-BEC2FF?logo=chainlink&logoColor=black"/>
