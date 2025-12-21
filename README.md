@@ -5,12 +5,16 @@ Competitive Programmer · Full-Stack Developer · AI Engineer
 </h3>
 
 ---
+
 <img align="left" src="https://camo.githubusercontent.com/3bdada6ba5ec3dd52e907458744cc645fb19176974f3211150a40469ebd93786/68747470733a2f2f632e74656e6f722e636f6d2f4b765249484f794a4e2d7341414141692f67656172732d7370696e6e696e672e676966" width="35">
 
 <h3><b>TECH STACK</b></h3>
 
+<br/>
+
 <img align="left" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="30">
-<p> <b> Languages </b> </p>
+<p><b>Languages</b></p>
+
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
@@ -18,8 +22,11 @@ Competitive Programmer · Full-Stack Developer · AI Engineer
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
 </p>
 
+<br/>
+
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-<p> <b>  Development </b> </p>
+<p><b>Development</b></p>
+
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
@@ -31,20 +38,26 @@ Competitive Programmer · Full-Stack Developer · AI Engineer
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-0A0A0A?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-6E6E6E?logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"/>
 </p>
 
+<br/>
 
 <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="30">
-<p> <b>  AI Engineering </b> </p>
+<p><b>AI Engineering</b></p>
+
 <p>
-  <img src="https://img.shields.io/badge/LLMops-0B3C5D?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMOps-0B3C5D?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-4B0082?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vector_Databases-512BD4?logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-BEC2FF?logo=chainlink&logoColor=black"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black"/>
 </p>
+
+<br clear="left"/>
+
 
 
 ---
