@@ -10,7 +10,7 @@ Competitive Programmer · Full-Stack Developer · AI Engineer
 <h3>Tech Stack</h3>
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="65">
-<p> Languages </p>
+<p> <b> Languages </b> </p>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
