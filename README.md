@@ -5,9 +5,9 @@ Competitive Programmer · Full-Stack Developer · AI Engineer
 </h3>
 
 ---
-<img align="left" src="https://camo.githubusercontent.com/3bdada6ba5ec3dd52e907458744cc645fb19176974f3211150a40469ebd93786/68747470733a2f2f632e74656e6f722e636f6d2f4b765249484f794a4e2d7341414141692f67656172732d7370696e6e696e672e676966" width="30">
+<img align="left" src="https://camo.githubusercontent.com/3bdada6ba5ec3dd52e907458744cc645fb19176974f3211150a40469ebd93786/68747470733a2f2f632e74656e6f722e636f6d2f4b765249484f794a4e2d7341414141692f67656172732d7370696e6e696e672e676966" width="35">
 
-<h3>Tech Stack</h3>
+<h3><b>TECH STACK</b></h3>
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="30">
 <p> <b> Languages </b> </p>
@@ -19,7 +19,7 @@ Competitive Programmer · Full-Stack Developer · AI Engineer
 </p>
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-<p> <b> Development </b> </p>
+<p> <b>  Development </b> </p>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
@@ -37,7 +37,7 @@ Competitive Programmer · Full-Stack Developer · AI Engineer
 
 
 <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="30">
-<p> <b> AI Engineering </b> </p>
+<p> <b>  AI Engineering </b> </p>
 <p>
   <img src="https://img.shields.io/badge/LLMops-0B3C5D?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-4B0082?logo=openai&logoColor=white"/>
