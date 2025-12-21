@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
 </p>
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90">
 <p> <b>&nbsp;Development </b> </p>
 <p> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"/>
 </p>
 
-<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="30">
+<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="60">
 <p> <b>&nbsp;AI </b> </p>
 <p> <img src="https://img.shields.io/badge/LLMops-0B3C5D?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-4B0082?logo=openai&logoColor=white"/>
