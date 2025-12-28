@@ -1,4 +1,4 @@
-<h2 align="center"> (Full-Stack + AI) Developer </h2>
+<h2 align="center"> Full-Stack Developer </h2>
 <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="230"/>
 
 <img align="left" src="https://camo.githubusercontent.com/3bdada6ba5ec3dd52e907458744cc645fb19176974f3211150a40469ebd93786/68747470733a2f2f632e74656e6f722e636f6d2f4b765249484f794a4e2d7341414141692f67656172732d7370696e6e696e672e676966" width="35">
@@ -30,14 +30,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"/>
 </p>
 
-<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="60">
-<p> <b>&nbsp;&nbsp;&nbsp;AI </b> </p>
-<p> &nbsp;&nbsp;<img src="https://img.shields.io/badge/LLMops-0B3C5D?logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-4B0082?logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector_Databases-512BD4?logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-BEC2FF?logo=chainlink&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black"/>
-</p>
 
 
 ---
