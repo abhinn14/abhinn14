@@ -36,8 +36,8 @@
 
 # <img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="28"> PROJECTS
 
-<p align="center">
-  <img src="assets/bloggy.gif" width="500" />
+<p align="left">
+  <img src="assets/bloggy.gif" width="400" />
 </p>
 
 ###  **Microservices-based Tech Blog Sharing App** 
