@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonec2&logoColor=white"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonec2&logoColor=white"/> <br/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
@@ -39,9 +39,23 @@
 <img align="left" src="assets/bloggy.gif" width="400" />
 
 
-###  **Microservices-based Tech Blog Sharing App** 
-🔗 *Repo:* https://github.com/abhinn14/bloggy
-- Designed and implemented a 4-service architecture consisting of 3 core microservices (User, Author, Blog) behind a centralized API Gateway, enabling clean service separation and independent scaling.
+###  **&nbsp;&nbsp;&nbsp;Microservices-based Tech Blog Sharing App** 
+🔗 [*Repo*](https://github.com/abhinn14/bloggy) | [*Link*](https://bloggy-flax.vercel.app/)
+<p>&nbsp;&nbsp;&nbsp; Tech Stack: </p>
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonec2&logoColor=white"/>
+  
+<p>&nbsp;&nbsp;&nbsp;- 4-service architecture consisting of 3 core microservices (User, Author, Blog) behind a centralized API Gateway.</p>
+<p>&nbsp;&nbsp;&nbsp;- 4-service architecture consisting of 3 core microservices (User, Author, Blog) behind a centralized API Gateway.</p>
 - Load-tested REST APIs on AWS EC2 with 1K requests at 50 concurrent users, achieving ~100 requests/second, <400ms response time for 90% of requests, and zero request failures.
 - Integrated MongoDB and PostgreSQL (Neon) with Redis caching and RabbitMQ-based asynchronous messaging to optimize read performance and enable decoupled, event-driven communication.
 
