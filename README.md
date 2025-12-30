@@ -36,6 +36,17 @@
 
 # <img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="28"> PROJECTS
 
+<p align="center">
+  <img src="assets/bloggy.gif" width="500" />
+</p>
+
+###  **Microservices-based Tech Blog Sharing App** 
+🔗 *Repo:* https://github.com/abhinn14/bloggy
+- Designed and implemented a 4-service architecture consisting of 3 core microservices (User, Author, Blog) behind a centralized API Gateway, enabling clean service separation and independent scaling.
+- Load-tested REST APIs on AWS EC2 with 1K requests at 50 concurrent users, achieving ~100 requests/second, <400ms response time for 90% of requests, and zero request failures.
+- Integrated MongoDB and PostgreSQL (Neon) with Redis caching and RabbitMQ-based asynchronous messaging to optimize read performance and enable decoupled, event-driven communication.
+
+
 ### 💬 **Real-Time Chat Application with End-to-End Encryption**  
 🔗 *Repo:* https://github.com/abhinn14/chatapy  
 
