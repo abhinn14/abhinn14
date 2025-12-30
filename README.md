@@ -1,27 +1,30 @@
 <h2 align="center"> Full-Stack Developer </h2>
 <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="230"/>
 
-<img align="left" src="https://camo.githubusercontent.com/3bdada6ba5ec3dd52e907458744cc645fb19176974f3211150a40469ebd93786/68747470733a2f2f632e74656e6f722e636f6d2f4b765249484f794a4e2d7341414141692f67656172732d7370696e6e696e672e676966" width="35">
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://camo.githubusercontent.com/3bdada6ba5ec3dd52e907458744cc645fb19176974f3211150a40469ebd93786/68747470733a2f2f632e74656e6f722e636f6d2f4b765249484f794a4e2d7341414141692f67656172732d7370696e6e696e672e676966" width="35">
+ &nbsp;&nbsp; TECH STACK
+</h3>
 
-<h3><b>TECH STACK</b></h3>
+
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="60">
-<p> <b>&nbsp;&nbsp;&nbsp;Languages </b> </p>
-<p>&nbsp;&nbsp; <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
+<p> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages </b> </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
 </p>
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
-<p> <b>&nbsp;&nbsp;&nbsp;Development </b> </p>
+<p> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Development </b> </p>
 <p>&nbsp; <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonec2&logoColor=white"/> <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonec2&logoColor=white"/> <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
@@ -47,7 +50,7 @@
 <img height="14" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white"/>
 <img height="14" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/> 
 <img height="14" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
-<img height="14" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+<img height="14" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> &nbsp;&nbsp;&nbsp;
 <img height="14" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
 <img height="14" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"/>
 <img height="14" src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
