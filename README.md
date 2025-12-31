@@ -10,8 +10,10 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="60">
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages </b> </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
+</p>
+  <p> <b>&nbsp;&nbsp;&nbsp;&nbsp;Languages </b> </p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
@@ -20,7 +22,10 @@
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Development </b> </p>
+   </p>
+
+  <p> <b>&nbsp;&nbsp;&nbsp;&nbsp;Development </b> 
+  </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
