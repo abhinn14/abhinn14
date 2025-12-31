@@ -78,7 +78,7 @@
   
 ###  **&nbsp;&nbsp;&nbsp;Microservices-based Tech Blog Sharing App** 
 &nbsp;&nbsp;&nbsp;🔗 [*Repo*](https://github.com/abhinn14/bloggy) | [*Link*](https://bloggy-flax.vercel.app/) <br/> <br/>
-&nbsp;&nbsp;&nbsp; Tech Stack: 
+&nbsp;&nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white"/>
