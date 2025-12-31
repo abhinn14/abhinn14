@@ -95,9 +95,9 @@
 
 
 
-<p>&nbsp;&nbsp;&nbsp;- 4-service architecture consisting of 3 core microservices (User, Author, Blog) behind a centralized API Gateway.</p>
-<p>&nbsp;&nbsp;&nbsp;- Integrated Gemini API–based grammar correction into the blog publishing workflow.</p>
-<p>&nbsp;&nbsp;&nbsp;- Redis caching and RabbitMQ-based asynchronous messaging to optimize read performance and enable decoupled, event-driven communication.</p>
+<p>&nbsp;&nbsp;&nbsp;- 4-service architecture consisting of 3 core microservices (User, Author, Blog) behind a centralized API Gateway.<br/>
+&nbsp;&nbsp;&nbsp;- Integrated Gemini API–based grammar correction into the blog publishing workflow. <br/>
+&nbsp;&nbsp;&nbsp;- Redis caching and RabbitMQ-based asynchronous messaging to optimize read performance and enable decoupled, event-driven communication.</p>
 
 
 ### 💬 **Real-Time Chat Application with End-to-End Encryption**  
