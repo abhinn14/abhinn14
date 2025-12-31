@@ -68,9 +68,6 @@
   </tr>
 </table>
 
-
-<br/>
-
 ---
 
 # <img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="28"> PROJECTS
@@ -94,9 +91,8 @@
 <img height="14" src="https://img.shields.io/badge/AWS-FF9900?logo=amazonec2&logoColor=white"/>
 </p> 
 <p>&nbsp;&nbsp;&nbsp;- 4-service architecture consisting of 3 core microservices (User, Author, Blog) behind a centralized API Gateway.</p>
-<p>&nbsp;&nbsp;&nbsp;- 4-service architecture consisting of 3 core microservices (User, Author, Blog) behind a centralized API Gateway.</p>
-- Load-tested REST APIs on AWS EC2 with 1K requests at 50 concurrent users, achieving ~100 requests/second, <400ms response time for 90% of requests, and zero request failures.
-- Integrated MongoDB and PostgreSQL (Neon) with Redis caching and RabbitMQ-based asynchronous messaging to optimize read performance and enable decoupled, event-driven communication.
+<p>&nbsp;&nbsp;&nbsp;- Integrated Gemini API–based grammar correction into the blog publishing workflow.</p>
+<p>&nbsp;&nbsp;&nbsp;- Redis caching and RabbitMQ-based asynchronous messaging to optimize read performance and enable decoupled, event-driven communication.</p>
 
 
 ### 💬 **Real-Time Chat Application with End-to-End Encryption**  
