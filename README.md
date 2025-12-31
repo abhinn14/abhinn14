@@ -76,7 +76,7 @@
 <p>
 <img align="left" src="assets/bloggy.gif" width="250" />
   
-###  **&nbsp;&nbsp;&nbsp;Microservices-based Tech Blog Sharing App** 
+###  **&nbsp;&nbsp;&nbsp;Microservices-based Tech-Blog Sharing App** 
 &nbsp;&nbsp;&nbsp;🔗 [*Repo*](https://github.com/abhinn14/bloggy) | [*Link*](https://bloggy-flax.vercel.app/) <br/> <br/>
 &nbsp;&nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
