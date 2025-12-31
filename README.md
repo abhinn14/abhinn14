@@ -10,14 +10,15 @@
 
 <p align="left" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="60">
-</p>
-  <p> <b>&nbsp;&nbsp;&nbsp;&nbsp;Languages </b> </p>
+ <b>&nbsp;&nbsp;&nbsp;&nbsp;Languages </b> <br/>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  
 </p>
+
 
 
 <p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
