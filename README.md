@@ -105,7 +105,7 @@
 <img align="left" src="assets/contextqa.gif" width="250" />
   
 ###  **&nbsp;&nbsp;&nbsp;ContextQA Conversational RAG System** 
-&nbsp;&nbsp;&nbsp;🔗 [*Repo*](https://github.com/abhinn14/contextqa) | [*Demo*](https://github.com/abhinn14/abhinn14/blob/main/assets/contextrag.gif)
+&nbsp;&nbsp;&nbsp;🔗 [*Repo*](https://github.com/abhinn14/contextqa) | [*Demo*](https://github.com/abhinn14/abhinn14/blob/main/assets/contextqa.gif)
 <br/> <br/>
 &nbsp;&nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
