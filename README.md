@@ -100,6 +100,33 @@
 &nbsp;&nbsp;&nbsp;• Redis caching and RabbitMQ-based asynchronous messaging to optimize read performance and enable decoupled, event-driven &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;communication.</p>
 
 
+
+<p>
+<img align="left" src="assets/contextqa.gif" width="250" />
+  
+###  **&nbsp;&nbsp;&nbsp;ContextQA Conversational RAG System** 
+&nbsp;&nbsp;&nbsp;🔗 [*Repo*](https://github.com/abhinn14/contextqa) | [*Demo*]([https://bloggy-flax.vercel.app/](https://github.com/abhinn14/abhinn14/blob/main/assets/contextrag.gif)) <br/> <br/>
+&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/RAG-4B0082?logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_Databases-512BD4?logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/LangChain-BEC2FF?logo=chainlink&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black"/>
+  
+</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;• Built a session-based conversational RAG system using FastAPI, FAISS, and LangChain, enabling isolated document ingestion and querying per session.<br/>
+&nbsp;&nbsp;&nbsp;• Implemented contextual question rewriting using chat history to improve retrieval accuracy for multi-turn conversations. <br/>
+&nbsp;&nbsp;&nbsp;• Used MMR-based vector retrieval to balance relevance and diversity of document chunks, reducing redundant context.</p>
+
+
+
 ### 💬 **Real-Time Chat Application with End-to-End Encryption**  
 🔗 *Repo:* https://github.com/abhinn14/chatapy  
 
