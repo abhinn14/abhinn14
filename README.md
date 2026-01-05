@@ -83,9 +83,9 @@
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/><br/>  &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/> <br/> 
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"/>
 <img  src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
@@ -94,7 +94,7 @@
 </p>
 
 
- <br/> <br/> <br/> <br/>
+ <br/> <br/>
 <p>&nbsp;&nbsp;&nbsp;• 4-service architecture consisting of 3 core microservices (User, Author, Blog) behind a centralized API Gateway.<br/>
 &nbsp;&nbsp;&nbsp;• Integrated Gemini API-based grammar correction into the blog publishing workflow. <br/>
 &nbsp;&nbsp;&nbsp;• Redis caching and RabbitMQ-based asynchronous messaging to optimize read performance and enable decoupled, event-driven &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;communication.</p>
