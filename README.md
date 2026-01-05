@@ -120,7 +120,7 @@
   
 </p>
 
-
+<br/> <br/>
 
 <p>&nbsp;&nbsp;&nbsp;• Built a session-based conversational RAG system using FastAPI, FAISS, and LangChain, enabling isolated document ingestion and querying per session.<br/>
 &nbsp;&nbsp;&nbsp;• Implemented contextual question rewriting using chat history to improve retrieval accuracy for multi-turn conversations. <br/>
