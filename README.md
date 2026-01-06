@@ -126,15 +126,29 @@
 &nbsp;&nbsp;&nbsp;• Implemented contextual question rewriting using chat history to improve retrieval accuracy for multi-turn conversations. <br/>
 &nbsp;&nbsp;&nbsp;• Used MMR-based vector retrieval to balance relevance and diversity of document chunks, reducing redundant context.</p>
 
+<p>
+<img align="left" src="assets/chatapy.png" width="350" />
+  
+###  **&nbsp;&nbsp;&nbsp;Chat App with End-to-End Encryption** 
+&nbsp;&nbsp;&nbsp;🔗 [*Repo*](https://github.com/abhinn14/chatapy) | [*Link*](https://chatapy.onrender.com)
+<br/> <br/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="20"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="20"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="20"/>
 
+  
+</p>
 
-### 💬 **Real-Time Chat Application with End-to-End Encryption**  
-🔗 *Repo:* https://github.com/abhinn14/chatapy  
+<br/> <br/>
 
-- Built with **MERN**, **JWT**, **Socket.io**  
-- Achieved **<100ms latency** with concurrent users  
-- Implemented **ECDH + AES-256-GCM** based end-to-end encryption  
-- Secure client-to-client encrypted messaging  
+<p>&nbsp;&nbsp;&nbsp;• Built a real-time chat application using the MERN stack, JWT, and Socket.io that supports concurrent users with low message latency (<100ms).<br/>
+&nbsp;&nbsp;&nbsp;• Implemented end-to-end encryption using the Web Crypto API, combining ECDH key exchange with AES-256-GCM to ensure 100% confidentiality of all client-to-client messages.<br/>
+&nbsp;&nbsp;&nbsp;• Added user search functionality, read receipts, and secure client-side storage of private keys to enhance user experience and privacy.</p>
+
 
 ---
 
