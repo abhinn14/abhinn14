@@ -137,13 +137,13 @@
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="20"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="20"/> <br/> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="20"/>
 
   
 </p>
 
-<br/> <br/>
+<br/>
 
 <p>&nbsp;&nbsp;&nbsp;• Built a real-time chat application using the MERN stack, JWT, and Socket.io that supports concurrent users with low message latency (<100ms).<br/>
 &nbsp;&nbsp;&nbsp;• Implemented end-to-end encryption using the Web Crypto API, combining ECDH key exchange with AES-256-GCM to ensure 100% confidentiality of all client-to-client messages.<br/>
