@@ -164,13 +164,13 @@
 </p>
 
 <br/>
-<br/> <br/><br/> <br/>
+<br/> <br/><br/> <br/><br/>
 <p>&nbsp;&nbsp;&nbsp;• Developed an IoT-based monitoring system for ACs using C++, that captures real-time temperature, humidity, vibration, current and voltage data.<br/>
 &nbsp;&nbsp;&nbsp;• Designed the receiver system to visualize data trends and applied Isolation Forest for machine learning-based anomaly detection with 100% accuracy, enabling predictive maintenance.
   
 <br/>
   
-
+---
 
 ### 🔐 **AI-Powered Real-Time Fraud Detection System**  
 🔗 *Repo:* https://github.com/abhinn14/fraud  
