@@ -100,7 +100,7 @@
 &nbsp;&nbsp;&nbsp;• Redis caching and RabbitMQ-based asynchronous messaging to optimize read performance and enable decoupled, event-driven &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;communication.</p>
 
 
-
+<br/>
 <p>
 <img align="left" src="assets/contextqa.gif" width="350" />
   
@@ -125,6 +125,8 @@
 <p>&nbsp;&nbsp;&nbsp;• Built a session-based conversational RAG system using FastAPI, FAISS, and LangChain, enabling isolated document ingestion and querying per session.<br/>
 &nbsp;&nbsp;&nbsp;• Implemented contextual question rewriting using chat history to improve retrieval accuracy for multi-turn conversations. <br/>
 &nbsp;&nbsp;&nbsp;• Used MMR-based vector retrieval to balance relevance and diversity of document chunks, reducing redundant context.</p>
+<br/>
+
 
 <p>
 <img align="left" src="assets/chatapy.png" width="350" />
@@ -148,18 +150,25 @@
 <p>&nbsp;&nbsp;&nbsp;• Built a real-time chat application using the MERN stack, JWT, and Socket.io that supports concurrent users with low message latency (<100ms).<br/>
 &nbsp;&nbsp;&nbsp;• Implemented end-to-end encryption using the Web Crypto API, combining ECDH key exchange with AES-256-GCM to ensure 100% confidentiality of all client-to-client messages.<br/>
 &nbsp;&nbsp;&nbsp;• Added user search functionality, read receipts, and secure client-side storage of private keys to enhance user experience and privacy.</p>
+<br/>
 
+<p>
 
----
+  
+<img align="left" src="assets/chatapy.png" width="350" />
+  
+###  **&nbsp;&nbsp;&nbsp;IoT + ML: AC Anomaly Detection System** 
+&nbsp;&nbsp;&nbsp;🔗 [*Repo*](https://github.com/abhinn14/logger) | [*Link*](https://chatapy.onrender.com)
 
-### ❄️ **IoT + ML: Smart AC Anomaly Detection System (Logger)**  
-🔗 *Repo:* https://github.com/abhinn14/Logger  
+</p>
 
-- Collected real-time **temperature, humidity, vibration, current, voltage**  
-- Designed receiver & analytics dashboard  
-- Implemented **Isolation Forest** anomaly detection with **100% recall**  
-- Enabled predictive maintenance for industrial ACs  
-
+<br/>
+<br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+<p>&nbsp;&nbsp;&nbsp;• Developed an IoT-based monitoring system for ACs using C++, that captures real-time temperature, humidity, vibration, current and voltage data.<br/>
+&nbsp;&nbsp;&nbsp;• Designed the receiver system to visualize data trends and applied Isolation Forest for machine learning-based anomaly detection with 100% accuracy, enabling predictive maintenance.
+  
+<br/>
+  
 ---
 
 ### 🔐 **AI-Powered Real-Time Fraud Detection System**  
