@@ -152,24 +152,25 @@
 &nbsp;&nbsp;&nbsp;• Added user search functionality, read receipts, and secure client-side storage of private keys to enhance user experience and privacy.</p>
 <br/>
 
+
+
 <p>
 
-  
-<img align="left" src="assets/chatapy.png" width="350" />
+<img align="left" src="assets/logger.gif" width="350" />
   
 ###  **&nbsp;&nbsp;&nbsp;IoT + ML: AC Anomaly Detection System** 
-&nbsp;&nbsp;&nbsp;🔗 [*Repo*](https://github.com/abhinn14/logger) | [*Link*](https://chatapy.onrender.com)
+&nbsp;&nbsp;&nbsp;🔗 [*Repo*](https://github.com/abhinn14/logger) | [*Link*](https://vimeo.com/1083266812/8cda3f5ca8)
 
 </p>
 
 <br/>
-<br/> <br/><br/> <br/><br/> <br/><br/> <br/>
+<br/> <br/><br/> <br/>
 <p>&nbsp;&nbsp;&nbsp;• Developed an IoT-based monitoring system for ACs using C++, that captures real-time temperature, humidity, vibration, current and voltage data.<br/>
 &nbsp;&nbsp;&nbsp;• Designed the receiver system to visualize data trends and applied Isolation Forest for machine learning-based anomaly detection with 100% accuracy, enabling predictive maintenance.
   
 <br/>
   
----
+
 
 ### 🔐 **AI-Powered Real-Time Fraud Detection System**  
 🔗 *Repo:* https://github.com/abhinn14/fraud  
